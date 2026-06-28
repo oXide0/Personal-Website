@@ -52,7 +52,7 @@ export const experienceData = [
         id: 3,
         title: 'Software Engineer, Technical Lead',
         company: 'Argon',
-        date: 'Oct 2023 - Present',
+        date: 'Oct 2023 - Nov 2025',
         text: [
             'Co-founded and developed startups, leading product development and business strategy from inception to launch.',
             'Participated in multiple hackathons, consistently delivering innovative solutions under tight deadlines.',

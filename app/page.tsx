@@ -184,7 +184,7 @@ export default function Home() {
                         <AiFillGithub size='2em' />
                     </Link>
                     <Link
-                        href='https://www.linkedin.com/in/nazar-korchevskyi/'
+                        href='https://www.linkedin.com/in/nazarii-korchevskyi'
                         target='_blank'
                         className='text-slate-400 hover:text-slate-100'
                         aria-label='LinkedIn Profile'
