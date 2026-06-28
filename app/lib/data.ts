@@ -27,9 +27,20 @@ export const projectsData = [
 export const experienceData = [
     {
         id: 1,
+        title: 'Software Engineer',
+        company: 'ESET',
+        date: 'Apr 2026 - Present',
+        text: [
+            'Working on web applications with Laravel and React.js.',
+            'Collaborating with the team to deliver maintainable product features and improvements.'
+        ],
+        skills: ['Laravel', 'React.js']
+    },
+    {
+        id: 2,
         title: 'Full Stack Developer',
         company: 'invibe',
-        date: 'Jul 2025 - Present',
+        date: 'Jul 2025 - Feb 2026',
         text: [
             'Developing and maintaining full stack applications using PHP and Laravel frameworks.',
             'Collaborating on-site with the development team in Bratislava to build scalable and maintainable web solutions.',
@@ -38,7 +49,7 @@ export const experienceData = [
         skills: ['PHP', 'Laravel', 'JavaScript', 'Vue.js', 'MySQL']
     },
     {
-        id: 2,
+        id: 3,
         title: 'Software Engineer, Technical Lead',
         company: 'Argon',
         date: 'Oct 2023 - Present',
@@ -50,7 +61,7 @@ export const experienceData = [
         skills: ['Leadership', 'Next.js', 'Startup Development']
     },
     {
-        id: 3,
+        id: 4,
         title: 'Full Stack Developer',
         company: 'Everlution Software',
         date: 'Jun 2024 - Mar 2025',
@@ -64,7 +75,7 @@ export const experienceData = [
         skills: ['React', 'Node.js', 'TypeScript', 'GraphQL', 'Prisma']
     },
     {
-        id: 4,
+        id: 5,
         title: 'Frontend Developer',
         company: 'Everlution Software',
         date: 'Sep 2023 - May 2024',
